@@ -1,0 +1,48 @@
+.App {
+  margin:40px auto;
+  height: 500px;
+  width:500px;
+  background-color: darkslateblue;
+}
+
+body{
+  background-color: plum;
+}
+form{
+  margin-left: 40px;
+}
+
+Input{
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-top: 30px;
+  background-color: rgb(51, 192, 235);
+  color:wheat;
+  font-size: medium;
+  height: 30px;
+  width:300px;
+  border-radius: 10px;
+  border-color: navy;
+  text-align: center;
+  
+  
+  }
+  button{
+   background-color: chocolate; 
+   color: azure;
+   height: 40px ;
+   width: 70px;
+   border-radius: 10px;
+   cursor: pointer;
+  }
+
+
+
+  Input::placeholder{
+   text-align: center;
+    color:wheat;
+    font-size: medium;
+    
+    }
+
+
