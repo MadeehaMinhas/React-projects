@@ -1,15 +1,49 @@
 .App {
-  margin:40px auto;
-  height: 500px;
-  width:500px;
-  background-color: darkslateblue;
+text-align: center;
+}
+span{
+  text-align: center;
+  color:  #8456EC;
+  margin: 0px;
+
+}
+img{
+  width:400px;
+}
+.image{
+  width:200px;
+  height:200px;
+ 
+  margin-left: 400px;
+}
+.calender{
+  display: flex;
+  flex-direction: row;
+ 
+ 
+}
+.eheading{
+  margin-right: 200px;
+}
+.etext{
+  color:#BDBDBD;
+  margin-right: 300px;
+}
+p{
+  text-align: center;
 }
 
-body{
-  background-color: plum;
+h1{
+  text-align: center;
+  color: #240D57;
+  margin:0px;
+  margin-top: 15px;
 }
-form{
-  margin-left: 40px;
+.landing{
+  background-color: #8456EC;
+  width: 200px;
+ 
+
 }
 
 Input{
