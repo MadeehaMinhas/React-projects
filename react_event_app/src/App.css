@@ -1,0 +1,85 @@
+.App {
+text-align: center;
+}
+span{
+  text-align: center;
+  color:  #8456EC;
+  margin: 0px;
+
+}
+img{
+  width:400px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.image{
+  width:200px;
+  height:200px;
+ 
+  margin-left: 400px;
+}
+.calender{
+  display: flex;
+  flex-direction: row;
+ 
+ 
+}
+.eheading{
+  margin-right: 200px;
+}
+.etext{
+  color:#BDBDBD;
+  margin-right: 300px;
+}
+p{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  color: #240D57;
+  margin:0px;
+  margin-top: 15px;
+}
+.landing{
+  background-color: #8456EC;
+  width: 200px;
+ 
+
+}
+
+Input{
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-top: 30px;
+  background-color: rgb(51, 192, 235);
+  color:wheat;
+  font-size: medium;
+  height: 30px;
+  width:300px;
+  border-radius: 10px;
+  border-color: navy;
+  text-align: center;
+  
+  
+  }
+  button{
+   background-color: chocolate; 
+   color: azure;
+   height: 40px ;
+   width: 70px;
+   border-radius: 10px;
+   cursor: pointer;
+  }
+
+
+
+  Input::placeholder{
+   text-align: center;
+    color:wheat;
+    font-size: medium;
+    
+    }
+
+
